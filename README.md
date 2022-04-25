@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aim97" alt="aim97" /></a> </p>
 
-- 🌱 I’m currently learning **PyTorch, GraphQl, HuggingFace.**
+- 🌱 I’m currently learning **PyTorch, GraphQl, HuggingFace**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aim97?tab=repositories](https://github.com/aim97?tab=repositories)
 
